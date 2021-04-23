@@ -1,0 +1,106 @@
+filename	ATTRIBUTE_SampleType	ATTRIBUTE_Population	ATTRIBUTE_Urbanization_Score
+BF22_03_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+BF17_02_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+BF13_01_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+BF01_01_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+BF23_02_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+11GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+BF10_01_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+BF29_01_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+BF09_02_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+6GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+13GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+BF20_03_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+17GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+BF11_04_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+7GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+16GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+20GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+4GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+SM02.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+BF25_03_BF3.mzXML	SAMPLE	Burkina Faso	(3) Rural Traditional
+2GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+SM28.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+1GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+12GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+SM03.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+10GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+SM37.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM41.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM25.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM11.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM23.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM34.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+19GU.mzXML	SAMPLE	Guayabo	(2) Rural Industrial
+SM05.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM33.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM39.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+NO12_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+SM10.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+NO07_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+SM29.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM30.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+SM01.mzXML	SAMPLE	Matses	(4) Isolate Traditional
+NO05_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO06_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO01_N02.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO09_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO13_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO20_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO08_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO11_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO02_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO10_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO03_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO23_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO04_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO22_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO19_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+NO21_NO2.mzXML	SAMPLE	Norman	(1) Urban Industrial
+18TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+1TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+10TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+17TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+11TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+4TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+26TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+23TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+16TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+HCO07.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+28TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+HCO10.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+2TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+14TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+HCO11.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO03.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+24TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+27TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+HCO04.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO14.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO41.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO13.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO15.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO62.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO61.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO09.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO18.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+6TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+HCO63.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO12.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+3TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+HCO69.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO66.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO16.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO67.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO21.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO73.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO65.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO64.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO74.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO70.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO53.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO17.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO72.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+31TM.mzXML	SAMPLE	Tambo de Mora	(2) Rural Industrial
+HCO68.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
+HCO01.mzXML	SAMPLE	Tunapuco	(3) Rural Traditional
